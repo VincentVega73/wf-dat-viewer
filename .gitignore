@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Do not commit measurement captures or derived exports.
+*.dat
+*.bin
+*.wav
+*.csv
